@@ -1,0 +1,24 @@
+.container {
+    background-color: steelblue;
+}
+    
+    .container img {
+        width: 700px;
+        height: 175px;
+    }
+
+
+.userprofile {
+    margin: 50px;
+    max-width: 1075px;
+    padding: 100px;
+}
+
+.back {
+    margin: 10px;
+}
+
+.logout {
+    float: right;
+    margin: 25px;
+}
